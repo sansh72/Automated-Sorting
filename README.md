@@ -1,4 +1,4 @@
-# Download Organizer
+# Automated Sorting
 
 ## Description
 
