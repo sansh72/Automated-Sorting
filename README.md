@@ -2,7 +2,7 @@
 
 ## Description
 
-Download Organizer is a Python script designed to automatically organize files in your Downloads directory. This script continuously monitors the Downloads folder and moves files to predefined directories based on their file types. The organization of files includes categories such as zip files, images, PDFs, videos, music, Python scripts, and more. By automating this process, Download Organizer helps maintain a clean and efficient workspace, ensuring that your Downloads folder is always orderly and that files are easily accessible.
+Automated Sorting is a Python script designed to automatically organize files in your Downloads directory. This script continuously monitors the Downloads folder and moves files to predefined directories based on their file types. The organization of files includes categories such as zip files, images, PDFs, videos, music, Python scripts, and more. By automating this process, Automated Sorting helps maintain a clean and efficient workspace, ensuring that your Downloads folder is always orderly and that files are easily accessible.
 
 ## Features
 
@@ -22,4 +22,4 @@ Download Organizer is a Python script designed to automatically organize files i
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/download-organizer.git
+   git clone https://github.com/yourusername/automated-sorting.git
